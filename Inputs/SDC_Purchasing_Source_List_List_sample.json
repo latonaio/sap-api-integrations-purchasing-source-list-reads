@@ -1,0 +1,31 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_ec_mc/abcdef.json",
+	"PurchasingSourceList": {
+		"Material": "21",
+		"Plant": "0001",
+		"SourceListRecord": "1",
+		"ValidityStartDate": "",
+		"ValidityEndDate": "",
+		"Supplier": "",
+		"PurchasingOrganization": "",
+		"SupplyingPlant": "",
+		"OrderQuantityUnit": "",
+		"PurchaseOutlineAgreement": "",
+		"SupplierIsFixed": false,
+		"SourceOfSupplyIsBlocked": false,
+		"MRPSourcingControl": "",
+		"LastChangeDateTime": "",
+		"IssgPlantIsFixed": false,
+		"PurOutlineAgreementIsFixed": false,
+		"SourceOfSupplyIsFixed": false
+	},
+	"api_schema": "SAPPurchasingSourceListReads",
+	"accepter": ["List"],
+	"material_code": "21",
+	"plant": "0001",
+	"source_list_record": "1",
+	"deleted": false
+}

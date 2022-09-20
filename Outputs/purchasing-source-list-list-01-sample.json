@@ -1,0 +1,27 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-purchasing-source-list-reads/SAP_API_Caller/caller.go#L66",
+	"function": "sap-api-integrations-purchasing-source-list-reads/SAP_API_Caller.(*SAPAPICaller).List",
+	"level": "INFO",
+	"message": [
+		{
+			"Material": "21",
+			"Plant": "0001",
+			"SourceListRecord": "1",
+			"ValidityStartDate": "1998-01-01",
+			"ValidityEndDate": "9999-12-31",
+			"Supplier": "100000",
+			"PurchasingOrganization": "0001",
+			"SupplyingPlant": "",
+			"OrderQuantityUnit": "",
+			"PurchaseOutlineAgreement": "",
+			"SupplierIsFixed": false,
+			"SourceOfSupplyIsBlocked": false,
+			"MRPSourcingControl": "",
+			"LastChangeDateTime": "2022-09-20T20:18:27+09:00",
+			"IssgPlantIsFixed": false,
+			"PurOutlineAgreementIsFixed": false,
+			"SourceOfSupplyIsFixed": false
+		}
+	],
+	"time": "2022-09-20T20:29:09+09:00"
+}
